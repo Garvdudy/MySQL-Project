@@ -66,8 +66,8 @@ It enables clinics to:
 
 ### Repository Structure
 Juls-Walkin-Clinic/
--- juls_walkin_clinic_schema.sql
-- sample_data.sql
+- > juls_walkin_clinic_schema.sql
+- > sample_data.sql
 - advanced_queries.sql
 - views_and_procedures.sql
 - ERD_Diagram.png
