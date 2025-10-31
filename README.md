@@ -1,6 +1,6 @@
 # Juls Walk-in Clinic (MySQL Database Project)
 
-### 📘 Overview
+### Overview
 The **Juls Walk-in Clinic Database System** is a real-world healthcare management simulation built using **MySQL**.  
 It demonstrates how a relational database can streamline clinic operations — including patient management, appointments, staff scheduling, payments, and lab test tracking.
 
