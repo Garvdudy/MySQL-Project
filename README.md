@@ -9,7 +9,8 @@ This project was designed to improve **data integrity**, **operational efficienc
 ---
 
 ### Project Methodology
-- **Database Design:** Developed a fully normalized relational schema based on a conceptual data model (ERD).  
+- **Planning & Data Connector Design:** Before starting SQL implementation, I used tools like **draw.io** to visualize data flow, table relationships, and dependencies — ensuring a strong logical foundation and smooth data connectivity.  
+- **Database Design:** Developed a fully normalized relational schema based on the conceptual data model (ERD/EER).  
 - **Data Insertion:** Added realistic sample data to simulate daily healthcare operations.  
 - **Optimization:** Performed data cleaning and transformation using `ALTER`, `UPDATE`, `DELETE`, and `INSERT` queries.  
 - **Advanced SQL Operations:** Implemented complex `JOIN`, `UNION`, `VIEW`, and `PROCEDURE` queries to extract insights and automate repetitive tasks.  
@@ -51,6 +52,7 @@ It enables clinics to:
 - MySQL Workbench  
 - Power BI (integration-ready)  
 - ERD / EER Diagramming  
+- Draw.io (for conceptual and relational mapping) 
 
 ---
 
