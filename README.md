@@ -65,3 +65,25 @@ It enables clinics to:
 ---
 
 ### Repository Structure
+Juls-Walkin-Clinic/
+|─ juls_walkin_clinic_schema.sql
+|─ sample_data.sql
+|─ advanced_queries.sql
+|─ views_and_procedures.sql
+|─ ERD_Diagram.png
+|─ README.md
+
+---
+
+### Future Enhancements
+- Integration with a **web or Power BI dashboard** for real-time analytics.  
+- Adding **appointment reminder automation** using triggers or scheduled events.  
+- Expanding schema for **insurance and billing management**.
+
+---
+
+### Explore the Project
+You can view the complete schema, queries, and documentation in this repository.  
+> _Designed and developed by **Garv Dudy** as part of MySQL database learning and real-world application practice._
+
+---
