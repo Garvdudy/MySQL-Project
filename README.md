@@ -49,7 +49,7 @@ It enables clinics to:
 
 **Tools & Technologies:**  
 - MySQL  
-- MySQL Workbench  
+- Workbench  
 - Power BI (integration-ready)  
 - ERD / EER Diagramming  
 - Draw.io (for conceptual and relational mapping) 
